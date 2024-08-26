@@ -1,0 +1,5 @@
+ovh:
+  endpoint: ovh-eu
+  application_key: REDACTED
+  application_secret: REDACTED
+  consumer_key: REDACTED

@@ -1,0 +1,15 @@
+cachetools==5.0.0
+certifi==2021.10.8
+chardet==4.0.0
+charset-normalizer==2.0.12
+dokuwiki==1.3.2
+idna==3.3
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+ovh==1.0.0
+PyYAML==6.0
+requests==2.27.1
+scaleway-sdk==1.13.1
+six==1.16.0
+slumber==0.7.1
+urllib3==1.26.9
